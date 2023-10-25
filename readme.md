@@ -1,4 +1,4 @@
-# dx-ui 🎉
+# ☆꧁✬◦°˚°◦. ɖӼ-ʊɨ .◦°˚°◦✬꧂☆ 🎉
 
 Welcome to **dx-ui**, your one-stop solution for all web UI challenges! This open-source software project is designed to streamline your web development process, ensuring a seamless and joyful user experience. Let's build beautiful web interfaces together with dx-ui! 😊🚀
 
@@ -98,4 +98,4 @@ We welcome contributions from everyone. Before contributing, please read our [Co
 
 This project is licensed under the MIT License. See the [LICENSE] file for details.
 
-Happy coding! 😊🎉🚀
+(✿☯‿☯✿)
